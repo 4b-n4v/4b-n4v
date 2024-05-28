@@ -12,12 +12,10 @@ Cowboys are cool🤠🐄
 - 🏠 Living in the Rio Grande Valley, USA.
 - ⚡Fun fact:
   I am super interested in spoken languages!
-  
   I can speak Waray-waray, English, and --if you're patient-- Spanish. I also understand Tagalog and Cebuano, but my speaking skills a little rusty.
-
   I'm interested to learn either Brazilian Portuguese or Swedish once I'm satisfied with my Spanish.
 
 
- 
+ ### Some cool stuff I know
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,python,ruby,rails,lua)](https://skillicons.dev)
 
