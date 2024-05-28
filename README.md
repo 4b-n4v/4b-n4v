@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**4b-n4v/4b-n4v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cowboys are cool🤠🐄
 
-Here are some ideas to get you started:
+📫 How to reach me: ab.navilon@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Quick Facts
+- 📚 Undergraduate Student @ University of Texas - Rio Grande Valley.
+- 🌱 I’m currently learning Robert Nystrom's "Crafting Interpreters" book.
+- 👯 Interested in collaborating on any project. Seriously, programming is a huge area and I'd like to see all that I can.
+- 🌏 Born in Samar, Philippines. Grew up in the islands of Samar and Cebu. 
+- 🏠 Living in the Rio Grande Valley, USA.
+- ⚡Fun fact:
+  I am super interested in spoken languages!
+  I can speak Waray-waray, English, and --if you're patient-- Spanish. I also understand Tagalog and Cebuano, but my speaking skills a little rusty.
+
+  
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,python,ruby,rails,lua)](https://skillicons.dev)
