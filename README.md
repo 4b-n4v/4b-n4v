@@ -12,7 +12,7 @@ Discord: .syrenss
 
 ## Quick Facts
 - 📚 Undergraduate Student @ University of Texas - Rio Grande Valley.
-- 🌱 I’m currently learning Robert Nystrom's "Crafting Interpreters" book.
+- 🌱 I’m currently learning from Robert Nystrom's "Crafting Interpreters" book on creating and implementing the Lox language and interpreter.
 - 👯 Interested in collaborating on any project. Seriously, programming is a huge area and I'd like to see all that I can.
 - 🌏 Born in Samar, Philippines. Grew up in the islands of Samar and Cebu. 
 - 🏠 Living in the Rio Grande Valley, USA.
