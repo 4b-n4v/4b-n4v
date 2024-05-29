@@ -16,7 +16,7 @@ Secondary: angelobrian.navilon01@utrgv.edu
 - 🏠 Living in the Rio Grande Valley, USA.
 - ⚡Fun fact:
   I am super interested in spoken languages!
-  I can speak Waray-waray, English, and --if you're patient-- Spanish. I also understand Tagalog and Cebuano, but my speaking skills a little rusty.
+  I can speak Waray-waray, English, and --if you're patient-- Spanish. I also understand Tagalog and Cebuano, but my speaking skills are a little rusty.
 
 
  ### Some cool stuff I know
