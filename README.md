@@ -2,11 +2,13 @@
 
 Cowboys are cool🤠🐄
 
-📫 How to reach me: 
+📫 How to reach me:
 
-Primary: ab.navilon@gmail.com
+Gmail: ab.navilon@gmail.com
 
-Secondary: angelobrian.navilon01@utrgv.edu
+UTRGV Email: angelobrian.navilon01@utrgv.edu
+
+Discord: .syrenss 
 
 ## Quick Facts
 - 📚 Undergraduate Student @ University of Texas - Rio Grande Valley.
