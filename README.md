@@ -22,5 +22,5 @@ Discord: .syrenss
 
 
  ### Some cool stuff I know
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,python,ruby,rails,lua,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,python,ruby,rails,lua,java,arduino,linux,bash)](https://skillicons.dev)
 
