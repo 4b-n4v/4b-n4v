@@ -13,6 +13,7 @@ or send me a message on discord:  .syrenss
 -  Interested in collaborating on any project.
 -  Born in Samar, Philippines. Grew up in Samar and Cebu. 
 -  Living in the Rio Grande Valley, USA.🦅🦅🦅🦅🦅🦅
+-  Linux? The tech youtuber?
 -  I like language learning. Fluent in English, Waray-waray and proficient in Spanish if you're patient :D.
 -  I also understand Tagalog and Cebuano, but my speaking skills are a little rusty.
 
